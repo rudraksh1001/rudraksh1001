@@ -2,9 +2,9 @@
 
 # 👋 Hey, I'm Rudraksh
 
-### 💻 BCA Student | AI/ML Enthusiast | Flutter Developer | Tech Explorer
+### 💻 BCA Student | AI/ML Enthusiast | Tech Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+ideas+into+code+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Creating+Flutter+Applications+%F0%9F%93%B1;Always+Learning+Something+New+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+ideas+into+code+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Learning+Through+Real+Projects+%F0%9F%94%A5;Always+Building+Something+New+%E2%9C%A8" />
 
 <br>
 
@@ -14,17 +14,22 @@
 
 ---
 
+<div align="center">
+
 ## 🧑‍💻 About Me
 
-- 🎓 BCA student passionate about technology and software development
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 📱 Building applications with **Flutter & Dart**
-- 🐍 Working with **Python**
-- ☁️ Interested in **Cloud Computing, IoT & Data Structures**
-- 🔬 Exploring research and real-world technology projects
-- 🚀 Always experimenting, learning and building
+I'm Rudraksh, a BCA student with a strong interest in software development,
+Artificial Intelligence, Machine Learning, and emerging technologies.
+
+I enjoy exploring ideas, experimenting with different technologies, and
+turning concepts into practical projects. I'm continuously learning,
+building, and improving my skills through hands-on development.
+
+</div>
 
 ---
+
+<div align="center">
 
 ## ⚡ Tech Stack
 
@@ -43,50 +48,36 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Technology |
-|---|---|---|
-| 📱 **To Do List** | A simple productivity application | Flutter • Dart |
-| 🤖 **AI Projects** | Experiments and projects using AI/ML | Python • ML |
-| 🚗 **RoverRental** | Rental platform connecting customers with rental vendors | Web • Technology |
-| 🔬 **Research Projects** | Exploring AI and emerging technologies | AI • ML • Research |
+</div>
 
 ---
-
-## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rudraksh1001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+## 📂 Open Source Projects
 
-<br><br>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraksh1001&layout=compact&theme=tokyonight&hide_border=true" />
+<div align="center">
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=rudraksh1001&theme=tokyonight&hide_border=true" />
+| # | Project | Language | Tools / Libraries |
+|---|---|---|---|
+| 1 | [**Sportiq**](https://github.com/kr1shnasomani/Sportiq) | TypeScript | OpenCV • MediaPipe • TrackNet • FastAPI • React • Vite |
+| 2 | [**TreeTracer**](https://github.com/kr1shnasomani/TreeTracer) | Python | Detectron2 • Mask R-CNN • Computer Vision |
+| 3 | [**BloodPrint**](https://github.com/kr1shnasomani/BloodPrint) | Jupyter Notebook | TensorFlow • PyTorch • ResNet • EfficientNet |
+| 4 | [**ML**](https://github.com/kr1shnasomani/ML) | Python | Scikit-learn • XGBoost • LightGBM • OpenCV • Pandas • NumPy |
+| 5 | [**lexora**](https://github.com/kr1shnasomani/lexora) | JavaScript • Python | FastAPI • React • Vite • TailwindCSS • Supabase • Qdrant • Neo4j • Groq • OpenRouter • Gemini |
+| 6 | [**gigHood**](https://github.com/kr1shnasomani/gigHood) | TypeScript • Python | FastAPI • Next.js • React • TailwindCSS • Supabase • Neo4j • Groq • OpenRouter |
+| 7 | [**Aegis**](https://github.com/kr1shnasomani/Aegis) | TypeScript • Python | LangChain • FastAPI • Qdrant • PostgreSQL • React • Vite • TailwindCSS • SQLAlchemy • Apache AGE • Framer Motion |
+| 8 | [**argus**](https://github.com/kr1shnasomani/argus) | TypeScript • Python | FastAPI • Supabase • Qdrant • Jina AI • OpenRouter • Groq • Gemini • React • Vite • TailwindCSS |
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rudraksh1001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
+## 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudraksh1001&theme=tokyo-night&hide_border=true" />
 
@@ -94,12 +85,20 @@
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
+
+## 🌐 Connect With Me
 
 <a href="https://github.com/rudraksh1001">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/rudraksh-maheshwari-436032203/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:rudrakshnyati@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -108,7 +107,7 @@
 
 <div align="center">
 
-### 💡 "Code. Learn. Build. Repeat."
+### 💡 Code. Learn. Build. Repeat.
 
 ⭐ **Thanks for visiting my profile!**
 
