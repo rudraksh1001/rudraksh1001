@@ -4,7 +4,7 @@
 
 ### 💻 BCA Student | AI/ML Enthusiast | Tech Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+ideas+into+code+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Learning+Through+Real+Projects+%F0%9F%94%A5;Always+Building+Something+New+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+ideas+into+code+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Learning+Through+Real+Projects+%F0%9F%94%A5;Always+Building+Something+New+%E2%9C%A8" />
 
 <br>
 
@@ -18,12 +18,18 @@
 
 ## 🧑‍💻 About Me
 
-I'm Rudraksh, a BCA student with a strong interest in software development,
-Artificial Intelligence, Machine Learning, and emerging technologies.
+</div>
 
-I enjoy exploring ideas, experimenting with different technologies, and
-turning concepts into practical projects. I'm continuously learning,
-building, and improving my skills through hands-on development.
+<div align="center">
+
+I'm Rudraksh, a BCA student interested in software development, Artificial Intelligence,
+Machine Learning, and modern technologies. I enjoy exploring new ideas, working on
+practical projects, and understanding how different technologies come together to
+solve real-world problems.
+
+I'm focused on continuously improving my technical skills through hands-on
+development, experimentation, and open-source projects. I believe the best way
+to learn technology is to build with it, break things, and keep improving.
 
 </div>
 
@@ -31,22 +37,15 @@ building, and improving my skills through hands-on development.
 
 <div align="center">
 
-## ⚡ Tech Stack
+## ⚡ Languages
 
-### Languages
+<br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Frameworks & Tools
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
 </div>
 
@@ -56,20 +55,39 @@ building, and improving my skills through hands-on development.
 
 ## 📂 Open Source Projects
 
-</div>
+<br>
 
-<div align="center">
+<table>
+<tr>
+<th>#</th>
+<th>Project</th>
+<th>Languages</th>
+<th>Tools & Libraries</th>
+</tr>
 
-| # | Project | Language | Tools / Libraries |
-|---|---|---|---|
-| 1 | [**Sportiq**](https://github.com/kr1shnasomani/Sportiq) | TypeScript | OpenCV • MediaPipe • TrackNet • FastAPI • React • Vite |
-| 2 | [**TreeTracer**](https://github.com/kr1shnasomani/TreeTracer) | Python | Detectron2 • Mask R-CNN • Computer Vision |
-| 3 | [**BloodPrint**](https://github.com/kr1shnasomani/BloodPrint) | Jupyter Notebook | TensorFlow • PyTorch • ResNet • EfficientNet |
-| 4 | [**ML**](https://github.com/kr1shnasomani/ML) | Python | Scikit-learn • XGBoost • LightGBM • OpenCV • Pandas • NumPy |
-| 5 | [**lexora**](https://github.com/kr1shnasomani/lexora) | JavaScript • Python | FastAPI • React • Vite • TailwindCSS • Supabase • Qdrant • Neo4j • Groq • OpenRouter • Gemini |
-| 6 | [**gigHood**](https://github.com/kr1shnasomani/gigHood) | TypeScript • Python | FastAPI • Next.js • React • TailwindCSS • Supabase • Neo4j • Groq • OpenRouter |
-| 7 | [**Aegis**](https://github.com/kr1shnasomani/Aegis) | TypeScript • Python | LangChain • FastAPI • Qdrant • PostgreSQL • React • Vite • TailwindCSS • SQLAlchemy • Apache AGE • Framer Motion |
-| 8 | [**argus**](https://github.com/kr1shnasomani/argus) | TypeScript • Python | FastAPI • Supabase • Qdrant • Jina AI • OpenRouter • Groq • Gemini • React • Vite • TailwindCSS |
+<tr>
+<td>01</td>
+<td>
+<a href="https://github.com/kr1shnasomani/lexora"><b>Lexora</b></a>
+</td>
+<td>JavaScript • Python</td>
+<td>
+FastAPI • React • Vite • TailwindCSS • Supabase • Qdrant • Neo4j • Groq • OpenRouter • Google Gemini • Cohere • Jina • n8n
+</td>
+</tr>
+
+<tr>
+<td>02</td>
+<td>
+<a href="https://github.com/kr1shnasomani/argus"><b>Argus</b></a>
+</td>
+<td>TypeScript • Python</td>
+<td>
+FastAPI • Supabase • Qdrant • Jina AI • OpenRouter • Groq • Google Gemini • React • Vite • TailwindCSS
+</td>
+</tr>
+
+</table>
 
 </div>
 
@@ -78,6 +96,8 @@ building, and improving my skills through hands-on development.
 <div align="center">
 
 ## 📈 Contribution Activity
+
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudraksh1001&theme=tokyo-night&hide_border=true" />
 
@@ -89,17 +109,25 @@ building, and improving my skills through hands-on development.
 
 ## 🌐 Connect With Me
 
+<br><br>
+
 <a href="https://github.com/rudraksh1001">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/rudraksh-maheshwari-436032203/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:rudrakshnyati@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br><br>
 
 </div>
 
