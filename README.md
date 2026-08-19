@@ -14,38 +14,27 @@
 
 ---
 
-<div align="center">
-
 ## 🧑‍💻 About Me
 
-</div>
+I'm Rudraksh, a BCA student with a strong interest in software development,
+Artificial Intelligence, Machine Learning, and modern technologies.
 
-<div align="center">
+I enjoy exploring new ideas, experimenting with different technologies, and
+turning concepts into practical projects. I'm continuously working on improving
+my technical skills through hands-on development, problem solving, and learning.
 
-I'm Rudraksh, a BCA student interested in software development, Artificial Intelligence,
-Machine Learning, and modern technologies. I enjoy exploring new ideas, working on
-practical projects, and understanding how different technologies come together to
-solve real-world problems.
-
-I'm focused on continuously improving my technical skills through hands-on
-development, experimentation, and open-source projects. I believe the best way
-to learn technology is to build with it, break things, and keep improving.
-
-</div>
+My goal is simple — keep building, keep learning, and create technology that
+is actually useful.
 
 ---
 
 <div align="center">
 
-## ⚡ Languages
+## ⚡ Languages & Technologies
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,java,c,dart,flutter,mysql,css,html,git,github" />
 
 </div>
 
@@ -67,23 +56,50 @@ to learn technology is to build with it, break things, and keep improving.
 
 <tr>
 <td>01</td>
+
 <td>
-<a href="https://github.com/kr1shnasomani/lexora"><b>Lexora</b></a>
+<a href="https://github.com/kr1shnasomani/lexora">
+<b>Lexora</b>
+</a>
 </td>
-<td>JavaScript • Python</td>
+
 <td>
-FastAPI • React • Vite • TailwindCSS • Supabase • Qdrant • Neo4j • Groq • OpenRouter • Google Gemini • Cohere • Jina • n8n
+🐍 Python<br>
+🟨 JavaScript
+</td>
+
+<td align="left">
+
+⚡ FastAPI &nbsp; ⚛️ React &nbsp; ⚡ Vite<br>
+🎨 TailwindCSS &nbsp; 🟢 Supabase &nbsp; 🔷 Qdrant<br>
+🔵 Neo4j &nbsp; 🧠 Groq &nbsp; 🔗 OpenRouter<br>
+✨ Google Gemini &nbsp; 🤖 Cohere &nbsp; 🔎 Jina<br>
+🔄 n8n
+
 </td>
 </tr>
 
 <tr>
 <td>02</td>
+
 <td>
-<a href="https://github.com/kr1shnasomani/argus"><b>Argus</b></a>
+<a href="https://github.com/kr1shnasomani/argus">
+<b>Argus</b>
+</a>
 </td>
-<td>TypeScript • Python</td>
+
 <td>
-FastAPI • Supabase • Qdrant • Jina AI • OpenRouter • Groq • Google Gemini • React • Vite • TailwindCSS
+🔷 TypeScript<br>
+🐍 Python
+</td>
+
+<td align="left">
+
+⚡ FastAPI &nbsp; 🟢 Supabase &nbsp; 🔷 Qdrant<br>
+🔎 Jina AI &nbsp; 🔗 OpenRouter &nbsp; 🧠 Groq<br>
+✨ Google Gemini &nbsp; ⚛️ React &nbsp; ⚡ Vite<br>
+🎨 TailwindCSS
+
 </td>
 </tr>
 
@@ -105,33 +121,35 @@ FastAPI • Supabase • Qdrant • Jina AI • OpenRouter • Groq • Google G
 
 ---
 
-<div align="center">
-
 ## 🌐 Connect With Me
 
-<br><br>
+<br>
 
+<table width="100%">
+<tr>
+
+<td align="left" width="33%">
 <a href="https://github.com/rudraksh1001">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<td align="center" width="34%">
 <a href="https://www.linkedin.com/in/rudraksh-maheshwari-436032203/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<td align="right" width="33%">
 <a href="mailto:rudrakshnyati@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+</td>
 
-<br><br>
+</tr>
+</table>
 
-</div>
-
----
+<br>
 
 <div align="center">
 
